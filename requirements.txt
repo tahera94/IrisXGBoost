@@ -1,0 +1,8 @@
+#from sklearn.datasets import load_iris
+xgboost
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+#brew install libomp
+
